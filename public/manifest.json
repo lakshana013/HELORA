@@ -1,0 +1,12 @@
+{
+  "name": "Healora - Rural Healthcare",
+  "short_name": "Healora",
+  "description": "AI-powered healthcare guidance for rural communities",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "categories": ["health", "medical"],
+  "lang": "en"
+}
